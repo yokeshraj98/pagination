@@ -1,0 +1,7 @@
+.fixed-table-container {
+    text-align: center;
+}
+
+thead {
+    text-align-last: center !important;
+}
